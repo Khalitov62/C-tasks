@@ -38,8 +38,10 @@ namespace ConsoleApp8
                                     }
                                 }
                             }
+                            break count;
                         }
                     }
+                    break count;
                 }
             }
             return count;
